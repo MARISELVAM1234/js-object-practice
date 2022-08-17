@@ -1,0 +1,11 @@
+ // console.log("Brand :" + data.Brand);
+    // console.log("CPU  :" + data.CPU.Brand);
+    // console.log("OS : " + data.Os);
+    // console.log("Ram : " + data.Ram);
+    // console.log("Ssd : " + data.Ssd.Size + data.Ssd.Unit);
+    // console.log("ScreenSize :" + data.ScreenSize.Size + data.ScreenSize.Unit);
+    // console.log("Price : " + data.Price);
+    // console.log("Weight :" + data.Weight.Weight + data .Weight.Unit );
+    // console.log("Model :" + data.Model);
+    // console.log("Delivery " + data.Delivery);
+    // console.log("prime :" + data.Prime);
